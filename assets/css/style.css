@@ -8,11 +8,11 @@
 }
 
 .containerr {
-    display: flex ;
+    display: flex;
     flex-flow: row;
     justify-content: center;
     align-items: center;
-}
+ } 
 
 .center{
     text-align: center;
@@ -49,6 +49,13 @@
     width: 50px;
     height: 50px;
 }
+.mb-50{
+    margin-bottom: 50px;
+}
 
 
 /*Style da pg contato.html*/
+
+.ml-50 {
+    margin-left: 50px;
+ }
